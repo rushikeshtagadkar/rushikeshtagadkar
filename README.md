@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there!, I'm [Rushikesh](https://github.com/rushikeshtagadkar/)! </h1>
+# <h1 align="center"> Hi there!, I'm [Rushikesh](https://github.com/rushikeshtagadkar/)! </h1>
 
 - 👀 I’m interested in exploring new technologies, building cool projects, and learning from the tech community.
 - 🌱 I’m currently learning Java, JavaScript, SQL, and sharpening my skills in Data Structures and Algorithms.
