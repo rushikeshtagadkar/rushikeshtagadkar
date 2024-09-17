@@ -66,7 +66,7 @@
   </a>
 </p>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshtagadkar&show_icons=true&locale=en" alt="rushikeshtagadkar" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshtagadkar&" alt="rushikeshtagadkar" />
-</div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshtagadkar&show_icons=true&locale=en" alt="rushikeshtagadkar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshtagadkar&" alt="rushikeshtagadkar" /></p>
