@@ -7,9 +7,10 @@ I am a **Software Engineer** passionate about crafting innovative and efficient 
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikeshtagadkar)
-[![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=%23D14836&labelColor=%23FFFFFF)](mailto:rushikeshtagadkar01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-white?logo=portfolio&logoColor=%23000000&labelColor=%23FFFFFF)](https://rushikeshtagadkar.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/rushikeshtagadkar)
+[![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=%23D14836&labelColor=%23FFFFFF&style=flat-square)](mailto:rushikeshtagadkar01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=link&logoColor=white&style=flat-square&color=white)](https://rushikeshtagadkar.netlify.app)
+
 
 ---
 
@@ -29,20 +30,33 @@ I am a **Software Engineer** passionate about crafting innovative and efficient 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rushikeshtagadkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rushikeshtagadkar&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshtagadkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <!-- Flex container to display stats in one horizontal line -->
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px;">
+
+    
+   <img width="800" src="https://github-readme-stats.vercel.app/api?username=rushikeshtagadkar&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+   <img width="400" style="object-fit: contain;" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshtagadkar&theme=light&hide_border=false" alt="GitHub Streak" />
+  <img width="400" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshtagadkar&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+
+  </div>
+</div>
+
+
+
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white)
+
 
 <!-- ### 🔝 Top Contributed Repo
 <!![](https://github-contributor-stats.vercel.app/api?username=rushikeshtagadkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 --- -->
 
-[![](https://visitcount.itsvg.in/api?id=rushikeshtagadkar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rushikeshtagadkar&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
